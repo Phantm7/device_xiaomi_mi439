@@ -8,7 +8,8 @@
 PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/aosp_mi439.mk \
     $(LOCAL_DIR)/lineage_mi439.mk \
-    $(LOCAL_DIR)/evolution_mi439.mk
+    $(LOCAL_DIR)/evolution_mi439.mk \
+    $(LOCAL_DIR)/derp_mi439.mk
 
 COMMON_LUNCH_CHOICES := \
     aosp_mi439-user \
@@ -20,3 +21,6 @@ COMMON_LUNCH_CHOICES := \
     evolution_mi439-user \
     evolution_mi439-userdebug \
     evolution_mi439-eng
+    derp_mi439-user \
+    derp_mi439-userdebug \
+    derp_mi439-eng
