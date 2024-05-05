@@ -20,7 +20,7 @@ COMMON_LUNCH_CHOICES := \
     lineage_mi439-eng \
     evolution_mi439-user \
     evolution_mi439-userdebug \
-    evolution_mi439-eng
+    evolution_mi439-eng \
     derp_mi439-user \
     derp_mi439-userdebug \
     derp_mi439-eng
