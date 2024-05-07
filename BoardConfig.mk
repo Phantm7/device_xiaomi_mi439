@@ -6,7 +6,7 @@
 #
 
 DEVICE_PATH := device/xiaomi/mi439
-PMATRIX := evolution
+PMATRIX := lineage
 VANILLA_BUILD := true
 
 # ANT
