@@ -6,7 +6,7 @@
 #
 
 DEVICE_PATH := device/xiaomi/mi439
-PMATRIX := cherish
+PMATRIX := blaze
 VANILLA_BUILD := true
 
 # ANT
