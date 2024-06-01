@@ -9,7 +9,21 @@ LOCAL_OVERRIDES_PACKAGES := \
     Drive \
     Gmail2 \
     Maps \
-    YouTube
+    YouTube \
+    CalculatorGooglePrebuilt \
+    CalendarGooglePrebuilt \
+    Chrome-Stub \
+    GoogleContacts \
+    PrebuiltDeskClockGoogle \
+    PrebuiltBugle \
+    TrichromeLibrary \
+    TrichromeLibrary-Stub \
+    talkback \
+    GoogleDialer \
+    DeviceIntelligenceNetworkPrebuilt \
+    DevicePersonalizationPrebuiltPixel2020 \
+    SafetyHubPrebuilt \
+    HealthIntelligenceStubPrebuilt
 LOCAL_UNINSTALLABLE_MODULE := true
 LOCAL_CERTIFICATE := PRESIGNED
 LOCAL_SRC_FILES := /dev/null
