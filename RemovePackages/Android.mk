@@ -19,11 +19,7 @@ LOCAL_OVERRIDES_PACKAGES := \
     TrichromeLibrary \
     TrichromeLibrary-Stub \
     talkback \
-    GoogleDialer \
-    DeviceIntelligenceNetworkPrebuilt \
-    DevicePersonalizationPrebuiltPixel2020 \
-    SafetyHubPrebuilt \
-    HealthIntelligenceStubPrebuilt
+    GoogleDialer
 LOCAL_UNINSTALLABLE_MODULE := true
 LOCAL_CERTIFICATE := PRESIGNED
 LOCAL_SRC_FILES := /dev/null
