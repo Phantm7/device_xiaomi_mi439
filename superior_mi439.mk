@@ -20,9 +20,9 @@ $(call inherit-product, $(SRC_TARGET_DIR)/product/full_base_telephony.mk)
 $(call inherit-product, device/xiaomi/mi439/device.mk)
 
 # Inherit from common lineage configuration
-$(call inherit-product, vendor/derp/config/common_full_phone.mk)
+$(call inherit-product, vendor/superior/config/common_full_phone.mk)
 
-PRODUCT_NAME := derp_mi439
+PRODUCT_NAME := superior_mi439
 PRODUCT_DEVICE := mi439
 PRODUCT_BRAND := Xiaomi
 PRODUCT_MODEL := MI SDM439
@@ -30,8 +30,6 @@ PRODUCT_MANUFACTURER := Xiaomi
 
 # Boot animation resolution.
 TARGET_BOOT_ANIMATION_RES := 720
-TARGET_USES_PICO_GAPPS := true
-TARGET_USES_BLUR := false
 PRODUCT_GMS_CLIENTID_BASE := android-xiaomi
 
 PRODUCT_BUILD_PROP_OVERRIDES += \
