@@ -8,7 +8,7 @@
 PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/aosp_mi439.mk \
     $(LOCAL_DIR)/lineage_mi439.mk \
-    $(LOCAL_DIR)/superior_mi439.mk
+    $(LOCAL_DIR)/infinity_mi439.mk
 
 COMMON_LUNCH_CHOICES := \
     aosp_mi439-user \
@@ -17,6 +17,6 @@ COMMON_LUNCH_CHOICES := \
     lineage_mi439-user \
     lineage_mi439-userdebug \
     lineage_mi439-eng \
-    superior_mi439-user \
-    superior_mi439-userdebug \
-    superior_mi439-eng
+    infinity_mi439-user \
+    infinity_mi439-userdebug \
+    infinity_mi439-eng

@@ -6,7 +6,7 @@
 #
 
 DEVICE_PATH := device/xiaomi/mi439
-PMATRIX := superior
+PMATRIX := infinity
 VANILLA_BUILD := true
 
 # ANT
