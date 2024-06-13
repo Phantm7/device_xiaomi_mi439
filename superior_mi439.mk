@@ -20,7 +20,7 @@ $(call inherit-product, $(SRC_TARGET_DIR)/product/full_base_telephony.mk)
 $(call inherit-product, device/xiaomi/mi439/device.mk)
 
 # Inherit from common lineage configuration
-$(call inherit-product, vendor/superior/config/common_full_phone.mk)
+$(call inherit-product, vendor/superior/config/common.mk)
 
 PRODUCT_NAME := superior_mi439
 PRODUCT_DEVICE := mi439
