@@ -7,16 +7,12 @@
 
 PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/aosp_mi439.mk \
-    $(LOCAL_DIR)/lineage_mi439.mk \
-    $(LOCAL_DIR)/infinity_mi439.mk
+    $(LOCAL_DIR)/arrow_mi439.mk
 
 COMMON_LUNCH_CHOICES := \
     aosp_mi439-user \
     aosp_mi439-userdebug \
     aosp_mi439-eng \
-    lineage_mi439-user \
-    lineage_mi439-userdebug \
-    lineage_mi439-eng \
-    infinity_mi439-user \
-    infinity_mi439-userdebug \
-    infinity_mi439-eng
+    arrow_mi439-user \
+    arrow_mi439-userdebug \
+    arrow_mi439-eng

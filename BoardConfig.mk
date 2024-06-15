@@ -6,8 +6,8 @@
 #
 
 DEVICE_PATH := device/xiaomi/mi439
-PMATRIX := lineage
-VANILLA_BUILD := true
+PMATRIX ?= lineage
+VANILLA_BUILD ?= true
 
 # ANT
 BOARD_ANT_WIRELESS_DEVICE := "vfs-prerelease"
