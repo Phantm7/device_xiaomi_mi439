@@ -31,6 +31,7 @@ LOCAL_OVERRIDES_PACKAGES := \
     LatinIMEGooglePrebuilt \
     WebViewGoogle \
     WebViewGoogle-Stub \
+    ViaBrowser \
     HealthIntelligenceStubPrebuilt
 LOCAL_UNINSTALLABLE_MODULE := true
 LOCAL_CERTIFICATE := PRESIGNED
