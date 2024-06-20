@@ -31,6 +31,8 @@ PRODUCT_MANUFACTURER := Xiaomi
 WITH_GMS := true
 TARGET_CORE_GMS := true
 
+-include vendor/lineage-priv/keys/keys.mk
+
 PRODUCT_BUILD_PROP_OVERRIDES += \
     RISING_CHIPSET="SDM439" \
     RISING_MAINTAINER="Phantom"
