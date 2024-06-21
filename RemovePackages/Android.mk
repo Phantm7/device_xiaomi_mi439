@@ -21,6 +21,7 @@ LOCAL_OVERRIDES_PACKAGES := \
     TrichromeLibrary-Stub \
     GCS \
     talkback \
+    Gallery2 \
     GoogleDialer \
     DeviceIntelligenceNetworkPrebuilt \
     DevicePersonalizationPrebuiltPixel2020 \
