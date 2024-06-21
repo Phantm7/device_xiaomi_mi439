@@ -30,6 +30,7 @@ PRODUCT_MANUFACTURER := Xiaomi
 
 WITH_GMS := true
 TARGET_CORE_GMS := true
+PRODUCT_NO_CAMERA := false
 
 -include vendor/lineage-priv/keys/keys.mk
 
