@@ -24,6 +24,7 @@ LOCAL_OVERRIDES_PACKAGES := \
     GoogleDialer \
     DeviceIntelligenceNetworkPrebuilt \
     DevicePersonalizationPrebuiltPixel2020 \
+    DevicePersonalizationPixel2020 \
     SafetyHubPrebuilt \
     GoogleTTS \
     TurboPrebuilt \
