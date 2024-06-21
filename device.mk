@@ -360,6 +360,11 @@ TARGET_COMMON_QTI_COMPONENTS += \
 PRODUCT_PACKAGES += \
     RemovePackages
 
+# Extra packages
+PRODUCT_PACKAGES += \
+    Accord \
+    FossifyGallery
+
 # RIL
 PRODUCT_PACKAGES += \
     libxml2
